@@ -1,8 +1,6 @@
 public class Main {
     public static void main( String[] args) {
-
-
-            System.out.println("test");
-
+        Fraction fraction = new Fraction(2.45);
+        System.out.println(fraction.rationnel);
     }
 }
